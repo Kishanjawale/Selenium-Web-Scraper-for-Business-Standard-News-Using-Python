@@ -23,7 +23,7 @@ Ensure the ChromeDriver executable path is correctly set (chrome_driver_path var
 Modify the website_url_business_standards variable if you wish to scrape a different website.
 Run the script to obtain the latest news with highlighted important updates.
 
-##Dependencies:
+## Dependencies:
 Selenium: Web automation library.
 Colorama: Console text formatting library.
 
